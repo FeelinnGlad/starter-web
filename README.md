@@ -15,3 +15,7 @@ Some text text text...
 Some text text text...Some text text text...
 
 ## How to Continue
+
+### Copyright
+
+1998 Thanks 4 the Git courses, fam
