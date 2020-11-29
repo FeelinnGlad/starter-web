@@ -1,20 +1,22 @@
 # Starter Web Project
 
-Some text text text...
+A repo to learn basics of Git & GitHub
 
 ## Introduction
 
-More of text meowmoewomoew
+A wiseman said...
 
 ## Purpose
 
-Some text text text...
+Purpose?
 
 ## Deployment
 
-Some text text text...Some text text text...
+It's just a sample website with plenty of files for demos, so no deployment needed :p
 
 ## How to Continue
+
+Do a step forward
 
 ### Copyright
 
