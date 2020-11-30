@@ -20,4 +20,4 @@ Do a step forward
 
 ### Copyright
 
-1998 Thanks 4 the Git courses, fam
+1998 Thanks 4 the awesome Git courses, fam
