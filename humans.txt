@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jasper Charleswood mothpunk@gmail.com
 
 # THANKS
 
