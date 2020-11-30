@@ -1,6 +1,6 @@
 # Starter Web Project
 
-A repo to learn basics of Git & GitHub
+A repo made to learn basics of Git & GitHub
 
 ## Introduction
 
