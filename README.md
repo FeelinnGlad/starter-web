@@ -1,6 +1,7 @@
 # Starter Web Project
 
-A repository made to learn basics of Git & GitHub
+A repository made to learn basics of Git & GitHub.
+Doing emergency fix after our stash
 
 ## Introduction
 
